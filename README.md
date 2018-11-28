@@ -35,3 +35,7 @@ Please visit https://bahmni.atlassian.net/wiki/display/BAH/Working+on+Bahmni+Ope
     |-- bower.json
     |-- package.json
 </pre>
+
+MOasis is amazing
+Nathan should get a haircut
+Hello world
